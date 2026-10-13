@@ -38,3 +38,8 @@ docker-compose.override.yml
 
 /secrets/
 /.junie/
+
+# Nix
+/result
+/result-*
+/.direnv/
